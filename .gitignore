@@ -1,5 +1,22 @@
+# Dependencies
 node_modules/
+
+# Environment variables
 .env
-.DS_Store
+.env.local
+.env*.local
+
+# Next.js
+.next/
+out/
+
+# Logs
 *.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Study notes (not for review)
 STUDY_NOTES/
